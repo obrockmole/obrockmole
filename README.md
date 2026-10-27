@@ -47,3 +47,26 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-%232F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<a href="https://github-stats-extended.vercel.app/api?username=obrockmole">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=obrockmole&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark&text_color=ffffff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=obrockmole&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark&text_color=ffffff" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=obrockmole">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=obrockmole&layout=compact&langs_count=8&hide=shaderlab&theme=dark&text_color=ffffff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=obrockmole&layout=compact&langs_count=8&hide=shaderlab&theme=dark&text_color=ffffff" />
+  </picture>
+</a>
